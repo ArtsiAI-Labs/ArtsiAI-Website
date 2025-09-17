@@ -1,0 +1,9 @@
+## Pages
+- [- ArtsiAI](/auth): No description available
+- [AI Art Studio - ArtsiAI](/aiartstudio): Create stunning AI artwork with advanced AI models. Generate, customize, and download your digital art.
+- [Community Hub - ArtsiAI](/communityhub): Join the ArtsiAI community. Showcase your art, participate in challenges, and connect with other creators.
+- [Dashboard - ArtsiAI](/dashboard): Your ArtsiAI dashboard - manage your AI art, NFTs, and marketplace activity.
+- [Help & Documentation - ArtsiAI](/help): Find answers to your questions, read our guides, and get support for ArtsiAI.
+- [Marketplace - ArtsiAI](/marketplace): Discover and trade unique AI-generated NFTs on the ArtsiAI marketplace. Buy, sell, and collect digital art.
+- [NFT Minting - ArtsiAI](/nftminting): Mint your AI artwork as NFTs on the Ethereum blockchain. Add metadata and deploy to the marketplace.
+- [Profile & Settings - ArtsiAI](/profile): Manage your ArtsiAI profile, link accounts, and adjust your settings.
