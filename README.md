@@ -109,8 +109,3 @@ Feel free to use and build upon it while giving credit to ArtsiAI.
 ✨ *ArtsiAI – Where Creativity Meets Blockchain.*
 
 ```
-
----
-
-👉 Do you want me to also make a **shorter version (minimal README)** for people who just need quick install & run instructions?
-```
