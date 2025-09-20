@@ -107,5 +107,3 @@ Feel free to use and build upon it while giving credit to ArtsiAI.
 ---
 
 ✨ *ArtsiAI – Where Creativity Meets Blockchain.*
-
-```
